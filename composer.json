@@ -1,8 +1,6 @@
 {
   "require": {
-    "php": ">=5.3.6",
-    "ext-pdo": "*"mo
-
+    "ext-pdo": "*"
   },
   "autoload": {
     "psr-4": {
